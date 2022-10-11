@@ -1,4 +1,4 @@
-# CSE130 ASSIGNMENT 4 - Atomicity and Coherency &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; Arthur Foy
+# Multi-Threaded HTTP Server
 ## Functionality
 - **USAGE**: ./httpserver [-t threads] [-l logfile] \<port\>
 - **This program combines Assignments 1, 2, and 3 so it's a multithreaded HTTP server with audit logging except it now implements atomicity and coherency.**
